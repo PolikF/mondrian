@@ -1,7 +1,7 @@
 '''
 Created on Jun 29, 2016
 
-@author: elphel
+@author: Paulina
 '''
 from pyx import *
 from random import *
